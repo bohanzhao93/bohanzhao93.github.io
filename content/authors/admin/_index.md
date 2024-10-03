@@ -36,15 +36,15 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/BH_Zhao
   - icon: brands/instagram
-    url: # https://www.instagram.com/
-  - icon: # brands/github
-    url: # https://github.com/gcushen
-  - icon: # brands/linkedin
-    url: # https://www.linkedin.com/
-  - icon: # academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.instagram.com/zhao_bh
+  - icon: brands/github
+    url: https://github.com/zhao-bohan
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/bohan-zhao-929483134/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=4QWziiUAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-9177-1278
 
 interests:
   - Neural Circuits
