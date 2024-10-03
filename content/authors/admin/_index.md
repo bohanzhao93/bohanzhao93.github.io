@@ -3,7 +3,7 @@
 title: Bohan Zhao
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: '赵博涵'
 
 # Full name (for SEO)
 first_name: Bohan
