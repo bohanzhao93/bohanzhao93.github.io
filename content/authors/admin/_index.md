@@ -35,16 +35,16 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/BH_Zhao
-  - icon: custom/pubmed
-    url: https://www.instagram.com/zhao_bh
-  - icon: custom/researchgate
-    url: https://github.com/zhao-bohan
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/bohan-zhao-929483134/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=4QWziiUAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-9177-1278
+  - icon: custom/pubmed
+    url: https://pubmed.ncbi.nlm.nih.gov/?term=Bohan+Zhao%5BAuthor%5D%29+AND+%28%28Sichuan%5BAffiliation%5D%29+OR+%28Tsinghua%5BAffiliation%5D%29+OR+%28Scripps%5BAffiliation%5D%29%29
+  - icon: custom/researchgate
+    url: https://www.researchgate.net/profile/Bohan-Zhao-3
 
 interests:
   - Neural Circuits
@@ -85,12 +85,12 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
         
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Postdoctoral Associate
+    company_name: University of Oxford
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-11-01
+    date_end: 2023-01-01
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -173,4 +173,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bohan Zhao is an AHA postdoctoral fellow  at the neurometabolism lab of [Li Ye](http://www.ye-lab.org) at Scripps Research. His research interests include brain-body interaction, neural circuits and internal states. He leads the Adipose Interoception group, which develops whole-brain profiling of interoception and neuronal representation of metabolic challanges.
