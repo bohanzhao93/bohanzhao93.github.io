@@ -35,9 +35,9 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/BH_Zhao
-  - icon: researchgate
+  - icon: icons/researchgate
     url: https://www.instagram.com/zhao_bh
-  - icon: pubmed
+  - icon: icons/pubmed
     url: https://github.com/zhao-bohan
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/bohan-zhao-929483134/
