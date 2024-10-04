@@ -1,5 +1,5 @@
 ---
-title: Exclusion and Co-expression of Aversive Olfactory Long-Term Memories in <i>Drosophila</i>
+title: Exclusion and Co-expression of Aversive Olfactory Long-Term Memories in Drosophila
 authors:
 - Bohan Zhao
 - Xuchen Zhang
