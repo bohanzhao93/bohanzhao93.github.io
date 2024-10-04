@@ -4,7 +4,7 @@ authors:
 - Ningxin Dang
 - Fenghui Sun
 - Yunyun Lv
-- Bohan Zhao
+- admin
 - Jichao Wang
 - Robert W. Murphy
 - Wenzhi Wang
