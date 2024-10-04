@@ -5,8 +5,11 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: M
+
 
 # SEO
 marketing:
@@ -35,7 +38,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Bohan Zhao"
+      text: "Bohan Zhao / Neuroscientist"
 
 # Site footer
 footer:
