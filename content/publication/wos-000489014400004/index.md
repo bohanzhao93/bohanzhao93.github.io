@@ -2,7 +2,7 @@
 title: Long-term memory is formed immediately without the need for protein synthesis-dependent
   consolidation in Drosophila
 authors:
-- Bohan Zhao
+- admin
 - Jiameng Sun
 - Xuchen Zhang
 - Han Mo
