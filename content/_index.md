@@ -62,7 +62,7 @@ sections:
         - **AHA Postdoctoral Fellowship** _Jan 2024, American Heart Association_
         - **EMBO Postdoctoral Fellowship** _Jan 2022, European Molecular Biology Organization_
     design:
-      columns: '1'
+      columns: '2'
     
   - block: collection
     id: news
