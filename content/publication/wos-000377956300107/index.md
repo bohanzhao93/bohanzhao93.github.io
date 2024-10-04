@@ -13,7 +13,7 @@ date: '2016-01-01'
 publishDate: '2024-10-04T18:57:20.929793Z'
 publication_types:
 - article-journal
-publication: '*MITOCHONDRIAL DNA PART A*'
+publication: '*Mitochondrial DNA Part A*'
 doi: 10.3109/19401736.2015.1041113
 abstract: The DNA barcoding gene COI (cytochrome c oxidase subunit I) effectively
   identifies many species. Herein, we barcoded 172 individuals from 37 species belonging
