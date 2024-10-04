@@ -53,6 +53,12 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: list
+    id: awards
+    content:
+      title: Awards and Fundings
+      text: ""
+      
   - block: collection
     id: news
     content:
