@@ -1,7 +1,7 @@
 ---
 title: Exclusion and Co-expression of Aversive Olfactory Long-Term Memories in Drosophila
 authors:
-- Bohan Zhao
+- admin
 - Xuchen Zhang
 - Jianjian Zhao
 - Qian Li
