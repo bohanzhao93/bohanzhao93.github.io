@@ -4,7 +4,7 @@ title: Genetic dissection of mutual interference between two consecutive learnin
 authors:
 - Jianjian Zhao
 - Xuchen Zhang
-- Bohan Zhao
+- admin
 - Wantong Hu
 - Tongxin Diao
 - Liyuan Wang
