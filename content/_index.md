@@ -57,12 +57,18 @@ sections:
     id: awards
     content:
       title: Awards and fundings
-      text: ""
+      subtitle: ''
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       filters:
         folders:
           - publication
-        exclude_featured: false
     design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      # Choose your content listing view - here we use the `showcase` view
+      view: compact
+      # For the Showcase view, do you want to flip alternate rows?
+      flip_alt_rows: false
       view: compact
   - block: collection
     id: news
