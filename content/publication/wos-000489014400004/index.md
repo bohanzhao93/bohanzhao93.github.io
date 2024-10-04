@@ -14,7 +14,7 @@ date: '2019-10-01'
 publishDate: '2024-10-04T18:57:20.940766Z'
 publication_types:
 - article-journal
-publication: '*NATURE COMMUNICATIONS*'
+publication: '*Nature Communications*'
 doi: 10.1038/s41467-019-12436-7
 abstract: It is believed that long-term memory (LTM) cannot be formed immediately
   because it must go through a protein synthesis-dependent consolidation process.
