@@ -56,11 +56,13 @@ sections:
   - block: collection
     id: awards
     content:
-      title: Awards and Fundings
+      title: Awards and fundings
       text: ""
       filters:
-      folders:
-        - awards
+        folders:
+          - publication
+        exclude_featured: false
+    design:
       view: list
   - block: collection
     id: news
