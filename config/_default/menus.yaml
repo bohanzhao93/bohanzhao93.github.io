@@ -12,7 +12,7 @@ main:
     weight: 11
     weight: 12
   - name: Awards
-    url: /#awards
+    url: /#award
     weight: 13
   - name: News
     url: /#news
