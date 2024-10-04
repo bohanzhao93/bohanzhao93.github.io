@@ -1,7 +1,7 @@
 ---
 title: Differential conditioning produces merged long-term memory in Drosophila
 authors:
-- Bohan Zhao
+- admin
 - Jiameng Sun
 - Qian Li
 - Yi Zhong
