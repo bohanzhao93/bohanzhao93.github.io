@@ -9,7 +9,7 @@ date: '2021-07-01'
 publishDate: '2024-10-04T18:57:20.947905Z'
 publication_types:
 - article-journal
-publication: '*ELIFE*'
+publication: '*elife*'
 doi: 10.7554/eLife.66499
 abstract: Multiple spaced trials of aversive differential conditioning can produce
   two independent long-term memories (LTMs) of opposite valence. One is an aversive
