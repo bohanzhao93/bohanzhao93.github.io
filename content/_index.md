@@ -54,7 +54,7 @@ sections:
     design:
       view: citation
   - block: markdown
-    id: awards
+    id: award
     content:
       title: '🏆Awards and Fundings'
       subtitle: ''
