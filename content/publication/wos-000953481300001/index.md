@@ -1,6 +1,6 @@
 ---
 title: Genetic dissection of mutual interference between two consecutive learning
-  tasks in Drosophila
+  tasks in *Drosophila*
 authors:
 - Jianjian Zhao
 - Xuchen Zhang
@@ -14,7 +14,7 @@ date: '2023-03-01'
 publishDate: '2024-10-04T18:57:20.954972Z'
 publication_types:
 - article-journal
-publication: '*ELIFE*'
+publication: '*elife*'
 doi: 10.7554/eLife.83516
 abstract: Animals can continuously learn different tasks to adapt to changing environments
   and, therefore, have strategies to effectively cope with inter-task interference,
