@@ -1,6 +1,6 @@
 ---
 title: Genetic dissection of mutual interference between two consecutive learning
-  tasks in *Drosophila*
+  tasks in '*Drosophila*'
 authors:
 - Jianjian Zhao
 - Xuchen Zhang
