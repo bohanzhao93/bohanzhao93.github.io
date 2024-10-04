@@ -59,8 +59,8 @@ sections:
       title: '🏆Awards and Fundings'
       subtitle: ''
       text: |-
-        - **AHA Postdoctoral Fellowship**
-          _2024, American Heart Association_{style="color: gray"}
+        - **AHA Postdoctoral Fellowship** _Jan 2024, American Heart Association_
+        - **EMBO Postdoctoral Fellowship** _Jan 2022, European Molecular Biology Organization_
     design:
       columns: '1'
     
