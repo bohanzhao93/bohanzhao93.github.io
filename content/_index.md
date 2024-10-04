@@ -63,7 +63,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: list
+      view: compact
   - block: collection
     id: news
     content:
