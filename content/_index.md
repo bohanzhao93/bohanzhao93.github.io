@@ -53,23 +53,17 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
+  - block: markdown
     id: awards
     content:
-      title: Awards and fundings
+      title: '🏆Awards and Fundings'
       subtitle: ''
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-      filters:
-        folders:
-          - publication
+      text: |-
+        - **AHA Postdoctoral Fellowship**
+          _2024, American Heart Association_{style="color: gray"}
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      # Choose your content listing view - here we use the `showcase` view
-      view: compact
-      # For the Showcase view, do you want to flip alternate rows?
-      flip_alt_rows: false
-      view: compact
+    
   - block: collection
     id: news
     content:
