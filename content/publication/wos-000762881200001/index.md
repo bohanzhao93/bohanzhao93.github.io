@@ -9,6 +9,6 @@ date: '2022-06-01'
 publishDate: '2024-10-04T18:57:20.962126Z'
 publication_types:
 - article-journal
-publication: '*NEUROSCIENCE BULLETIN*'
+publication: '*Neuroscience Bulletin*'
 doi: 10.1007/s12264-022-00830-z
 ---
