@@ -53,17 +53,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: markdown
-    id: award
-    content:
-      title: '🏆Awards and Fundings'
-      subtitle: ''
-      text: |-
-        - **AHA Postdoctoral Fellowship** _Jan 2024, American Heart Association_
-        - **EMBO Postdoctoral Fellowship** _Jan 2022, European Molecular Biology Organization_
-    design:
-      columns: '2'
-    
   - block: collection
     id: news
     content:
