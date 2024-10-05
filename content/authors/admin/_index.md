@@ -48,7 +48,7 @@ profiles:
 
 interests:
   - Neural Circuits
-  - Brain-body Interaction
+  - Brain-body Communication
   - Internal States
 
 education:
@@ -62,7 +62,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
     
-  - area: BSc Biological Sciences
+  - area: BSc Biology
     institution: Sichuan University
     date_start: 2011-09-01
     date_end: 2015-07-01
@@ -173,4 +173,4 @@ awards:
 
 ## About Me
 
-Welcome! I am an [AHA postdoctoral fellow](https://professional.heart.org/en/research-programs/researchers-at-heart/new-2024-aha-research-awardees/postdoctoral-fellowship)  at the [neurometabolism lab](http://www.ye-lab.org) led by [Prof. Li Ye](https://www.scripps.edu/faculty/ye/) at Scripps Research/HHMI. My research interests lie at the intersection of neural circuits, brain-body communications, and internal states. Currently, I am focusing on a project centered on adipose interception. This project aims to establish a framework for understanding brain-body interactions underlie metabolic state transitions. Before this, I obtained my PhD in neuroscience under the supervision of [Prof. Yi Zhong](https://life.tsinghua.edu.cn/lifeen/info/1035/1105.htm) at Tsinghua University, where I investigated the neural circuit mechanisms of long-term memory in _Drosophila_. Subsequently, I explored sleep homeostasis in _Drosophila_ with [Prof. Gero Miesenböck](https://en.wikipedia.org/wiki/Gero_Miesenb%C3%B6ck) at the University of Oxford. Thank you for visiting my site!
+Welcome! I am an [AHA postdoctoral fellow](https://professional.heart.org/en/research-programs/researchers-at-heart/new-2024-aha-research-awardees/postdoctoral-fellowship)  at the [neurometabolism lab](http://www.ye-lab.org) led by [Prof. Li Ye](https://www.scripps.edu/faculty/ye/) at Scripps Research/HHMI. My research interests lie at the intersection of neural circuits, brain-body communications, and internal states. Currently, I am focusing on a project centered on adipose interception. This study aims to establish a framework for understanding brain-body interactions underlie metabolic state transitions. Prior to this, I obtained my PhD in neuroscience under the supervision of [Prof. Yi Zhong](https://life.tsinghua.edu.cn/lifeen/info/1035/1105.htm) at Tsinghua University, where I investigated the neural circuit mechanisms of long-term memory in _Drosophila_. Subsequently, I explored neuronal operations underlying sleep homeostasis with [Prof. Gero Miesenböck](https://en.wikipedia.org/wiki/Gero_Miesenb%C3%B6ck) at the University of Oxford, where I developed skills in _in vivo_ electrophysiology and multiphoton imaging in _Drosophila_. Thank you for visiting my site!
