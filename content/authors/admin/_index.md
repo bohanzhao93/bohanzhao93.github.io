@@ -57,10 +57,10 @@ education:
     date_start: 2015-09-01
     date_end: 2021-07-01
     summary: |
-      Thesis on _The Discovery of Long-term Memory Components in Drosophila_. Supervised by [Prof Yi Zhong (https://life.tsinghua.edu.cn/lifeen/info/1035/1105.htm). Published 3 research articles as first author, and 1 collaborative work.
+      Thesis on _The Discovery of Long-term Memory Components in Drosophila_. Supervised by Prof Yi Zhong . Published 3 research articles as first author, and 1 collaborative work.
     button:
       text: 'Read Them'
-      url: '[https://pubmed.ncbi.nlm.nih.gov/?term=Bohan+Zhao%5BAuthor%5D+AND+Tsinghua%5BAffiliation%5D]'
+      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=Bohan+Zhao%5BAuthor%5D+AND+Tsinghua%5BAffiliation%5D'
     
   - area: BSc Biology
     institution: Sichuan University
