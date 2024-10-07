@@ -37,11 +37,7 @@ sections:
       title: '👨🏻‍💻 Research Interest'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+I am deeply fascinated by the complex workings of the brain and its critical role in shaping behavior. My long-term goal is to uncover the neural mechanisms that allow our sensory systems to detect internal states and how these perceptions influence our decisions and actions. My research journey began with a focus on learning and memory, and I have studied the cognitive processes that enable us to acquire and recall information. Currently, I am exploring the relationship between the brain and adipose tissue, examining how metabolic states and the external environment interact with the brain to regulate behavior and whole-body physiological responses. By linking these areas of research, my goal is to reveal the underlying principles from sensory detection and neural representations to the physiological states and behavioral outcomes, thereby advancing our understanding of cognitive and metabolic health. Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
