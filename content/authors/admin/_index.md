@@ -47,9 +47,9 @@ profiles:
     url: https://www.researchgate.net/profile/Bohan-Zhao-3
 
 interests:
-  - Neural Circuits
-  - Brain-body Communication
+  - Brain-body Interaction
   - Internal States
+  - Neural Circuits
 
 education:
   - area: PhD Neuroscience
@@ -57,45 +57,40 @@ education:
     date_start: 2015-09-01
     date_end: 2021-07-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _The Discovery of Long-term Memory Components in Drosophila_. Supervised by [Prof Yi Zhong (https://life.tsinghua.edu.cn/lifeen/info/1035/1105.htm). Published 3 research articles as first author, and 1 collaborative work.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Read Them'
+      url: '[https://pubmed.ncbi.nlm.nih.gov/?term=Bohan+Zhao%5BAuthor%5D+AND+Tsinghua%5BAffiliation%5D]'
     
   - area: BSc Biology
     institution: Sichuan University
     date_start: 2011-09-01
     date_end: 2015-07-01
     summary: |
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Undergraduate Academic Training:
+      - 2014-2015 Intern student at Tsinghuan University, studying orientation tuning in mice with 2-photon imaging, supervised by Prof Ji-Song Guan.
+      - 2013-2014 Intern student at Chinese Academy of Sciences, studying evolution of tree frogs with genetics and bioinformatics, supervised by Prof Jia-Tang Li.
+      - 2013 Intern student at Sichuan University, studying the interaction between drug-resistent bacteria and _Bdellovibrio_.
 work:
   - position: Postdoctoral Associate
     company_name: Scripps Research
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-01-17
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Work with Prof. Li Ye to explore brain-body interaction in metabolic homeostasis.
         
   - position: Postdoctoral Associate
     company_name: University of Oxford
     company_url: ''
     company_logo: ''
     date_start: 2021-11-01
-    date_end: 2023-01-01
+    date_end: 2023-01-15
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Work with Prof. Gero Miesenböck to study the neural circuit mechanisms of sleep homeostasis.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
