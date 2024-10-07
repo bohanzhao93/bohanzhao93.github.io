@@ -57,9 +57,9 @@ education:
     date_start: 2015-09-01
     date_end: 2021-07-01
     summary: |
-      Thesis on _The Discovery of Long-term Memory Components in Drosophila_. Supervised by Prof Yi Zhong . Published 3 research articles as first author, and 1 collaborative work.
+      Thesis on _The Discovery of Long-term Memory Components in Drosophila_. Supervised by Prof Yi Zhong.
     button:
-      text: 'Read Them'
+      text: 'Read My Publications during PhD'
       url: 'https://pubmed.ncbi.nlm.nih.gov/?term=Bohan+Zhao%5BAuthor%5D+AND+Tsinghua%5BAffiliation%5D'
     
   - area: BSc Biology
@@ -68,9 +68,12 @@ education:
     date_end: 2015-07-01
     summary: |
       Undergraduate Academic Training:
-      - 2014-2015 Intern student at Tsinghuan University, studying orientation tuning in mice with 2-photon imaging, supervised by Prof Ji-Song Guan.
-      - 2013-2014 Intern student at Chinese Academy of Sciences, studying evolution of tree frogs with genetics and bioinformatics, supervised by Prof Jia-Tang Li.
-      - 2013 Intern student at Sichuan University, studying the interaction between drug-resistent bacteria and _Bdellovibrio_.
+      - 2014-2015 Intern student at Tsinghua University, studying orientation tuning in mice with 2-photon imaging, supervised by Prof Ji-Song Guan.
+      - 2013-2014 Intern student at the Chinese Academy of Sciences, studying the evolution of tree frogs with genetics and bioinformatics, supervised by Prof Jia-Tang Li.
+      - 2013 Intern student at Sichuan University, studying the interaction between drug-resistant bacteria and _Bdellovibrio_.
+        button:
+      text: 'Read My Publication during Undergraduate'
+      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=Bohan+Zhao%5BAuthor%5D+AND+Sichuan%5BAffiliation%5D'
 work:
   - position: Postdoctoral Associate
     company_name: Scripps Research
@@ -78,8 +81,7 @@ work:
     company_logo: ''
     date_start: 2023-01-17
     date_end: ''
-    summary: |2-
-      Responsibilities include:
+    summary: |
       - Work with Prof. Li Ye to explore brain-body interaction in metabolic homeostasis.
         
   - position: Postdoctoral Associate
@@ -89,25 +91,24 @@ work:
     date_start: 2021-11-01
     date_end: 2023-01-15
     summary: |
-      Responsibilities include:
-      - Work with Prof. Gero Miesenböck to study the neural circuit mechanisms of sleep homeostasis.
+      - Work with Prof. Gero Miesenböck to study dopamine-mediated sleep homeostasis.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Animal Surgery (Mice and fly, brain and peripheral)
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: Dissection (Mice and fly, brain and peripheral)
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Microscopy (Confocal, multiphoton, fiber-photometry)
         description: ''
-        percent: 40
+        percent: 100
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -117,7 +118,7 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Guitar
         description: ''
         percent: 100
         icon: cat
@@ -128,39 +129,37 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 90
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: AHA Postdoctoral Fellowship
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+    date: '2021-01-01'
+    awarder: American Heart Association
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
+  - title: EMBO Postdoctoral Fellowship
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+    date: '2021-11-01'
+    awarder: European Molecular Biology Organization
     icon: edx
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+  - title: 'National Scholarship for Graduate Students'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
+    date: '2019-09-01'
+    awarder: Ministry of Education of China
     icon: datacamp
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
@@ -168,4 +167,4 @@ awards:
 
 ## About Me
 
-Welcome! I am an [AHA postdoctoral fellow](https://professional.heart.org/en/research-programs/researchers-at-heart/new-2024-aha-research-awardees/postdoctoral-fellowship)  at the [neurometabolism lab](http://www.ye-lab.org) led by [Prof. Li Ye](https://www.scripps.edu/faculty/ye/) at **Scripps Research/HHMI**. Currently, I am focusing on adipose interception, aiming to understand brain-body interactions. Prior to this, I obtained my PhD in neuroscience under the supervision of [Prof. Yi Zhong](https://life.tsinghua.edu.cn/lifeen/info/1035/1105.htm) at **Tsinghua University**, where I investigated the encoding mechanisms of memory in _Drosophila_. Subsequently, I explored sleep homeostatic regulations with [Prof. Gero Miesenböck](https://en.wikipedia.org/wiki/Gero_Miesenb%C3%B6ck) at the **University of Oxford**, where I developed skills in _in vivo_ electrophysiology and multiphoton imaging. Thank you for visiting my site!
+Welcome! I am an [AHA postdoctoral fellow](https://professional.heart.org/en/research-programs/researchers-at-heart/new-2024-aha-research-awardees/postdoctoral-fellowship)  at the [neurometabolism lab](http://www.ye-lab.org) led by [Prof. Li Ye](https://www.scripps.edu/faculty/ye/) at **Scripps Research/HHMI**. Currently, I am focusing on adipose interception, aiming to understand brain-body interactions. Prior to this, I obtained my PhD in neuroscience under the supervision of [Prof. Yi Zhong](https://life.tsinghua.edu.cn/lifeen/info/1035/1105.htm) at **Tsinghua University**, where I investigated the encoding mechanisms of memory in _Drosophila_. After that, I explored sleep homeostatic regulations with [Prof. Gero Miesenböck](https://en.wikipedia.org/wiki/Gero_Miesenb%C3%B6ck) at the **University of Oxford**, where I developed skills in _in vivo_ electrophysiology and multiphoton imaging. Thank you for visiting my site!
